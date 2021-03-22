@@ -1,0 +1,3 @@
+cookiecutter
+fastapi
+scikit-learn
